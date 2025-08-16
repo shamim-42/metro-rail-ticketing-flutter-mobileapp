@@ -1,0 +1,8 @@
+# API Configuration
+API_BASE_URL="https://z382ffuop3.execute-api.ap-southeast-1.amazonaws.com/dev/api"
+
+# App Configuration
+APP_NAME="Metro Rapid Pass"
+APP_VERSION="1.0.0"
+ENVIRONMENT="production"
+DEBUG="false"
